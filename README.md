@@ -1,9 +1,18 @@
-                 Algorithms in Python
+     					#**Data Structure And Algorithm**
                 
- *These code works for Pyhthon3
+###This repository contains Data Structure and Algorithm . It is made to collaborate with various developers specialized in different programming languages to contribute in the Data Structure and Algorithm. We can also get the new Algorithms from the collaboraters.
  
-     Searching Algorithm
+ ---
+  
+##Language
+  
+    1.Python
  
- Ordered Linear Search
- Unorderd Linear Search
- Binary Search
+--- 
+
+##Algorithms
+
+    *Searching Algorithm
+    *String Algorithm
+
+
